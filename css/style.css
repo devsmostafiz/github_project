@@ -1,5 +1,8 @@
 h1{
     background-color: aqua;
+    color: brown;
+    display: inline-block;
+    border-radius: 30px;
 }
 span{
     text-align: center;
